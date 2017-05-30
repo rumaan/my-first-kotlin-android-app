@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "342579027029",
+    "firebase_url": "https://customchatapp-23fcb.firebaseio.com",
+    "project_id": "customchatapp-23fcb",
+    "storage_bucket": "customchatapp-23fcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342579027029:android:de9e0ade71c51c5c",
+        "android_client_info": {
+          "package_name": "com.chatapp.thecoolguy.customchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342579027029-9hv33i7vn44bko8seusni7uu0ho1jn9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatapp.thecoolguy.customchatapp",
+            "certificate_hash": "48af307310c218dfd8083244809ec8316cd16bf8"
+          }
+        },
+        {
+          "client_id": "342579027029-e8v517baf47r7j9g71to317ugvcvuqj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl-NUlQ4b6SjlNeDOc4hk2oLq5f-UfCZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342579027029-e8v517baf47r7j9g71to317ugvcvuqj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
