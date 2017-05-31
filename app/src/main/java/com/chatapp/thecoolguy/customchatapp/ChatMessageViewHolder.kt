@@ -7,12 +7,17 @@ import android.widget.TextView
 class ChatViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
     private val nameTextView: TextView
     private val msgTextView: TextView
+    private val rootView: View
 
     init {
-        nameTextView = itemView.findViewById(android.R.id.text1) as TextView
-        msgTextView = itemView.findViewById(android.R.id.text2) as TextView
+        nameTextView = itemView.findViewById(R.id.sender) as TextView
+        msgTextView = itemView.findViewById(R.id.msg) as TextView
+        rootView = itemView.findViewById(R.id.root_view)
     }
 
+    fun getRootView(): View {
+        return rootView
+    }
 
     fun setName(name: String) {
         nameTextView.text = name

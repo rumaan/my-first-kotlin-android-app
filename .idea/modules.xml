@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CustomChatApp.iml" filepath="$PROJECT_DIR$/CustomChatApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-first-kotlin-android-app.iml" filepath="$PROJECT_DIR$/my-first-kotlin-android-app.iml" />
     </modules>
   </component>
 </project>
