@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "342579027029-plhc1knmqgisv4cf9mgt6eam23h1llht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatapp.thecoolguy.customchatapp",
+            "certificate_hash": "177a66be0f37ed9e14f9bf0446c504b8f87cd8e7"
+          }
+        },
+        {
           "client_id": "342579027029-9hv33i7vn44bko8seusni7uu0ho1jn9l.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
